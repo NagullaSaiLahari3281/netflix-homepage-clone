@@ -7,7 +7,7 @@ This project replicates the look and feel of Netflix’s landing page.
 
 🚀 Live Demo
 
-👉 [https://your-username.github.io/netflix-homepage-clone/](https://nagullasailahari3281.github.io/netflix-homepage-clone/)
+👉https://nagullasailahari3281.github.io/netflix-homepage-clone/
 
 ---
 
