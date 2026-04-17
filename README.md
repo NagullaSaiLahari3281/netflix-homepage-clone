@@ -1,49 +1,37 @@
 🎬 Netflix Homepage Clone
 
-This is a simple Netflix Homepage Clone built using HTML and CSS.
-It recreates the basic UI of Netflix's landing page.
+A visually appealing Netflix Homepage Clone built using HTML and CSS.
+This project replicates the look and feel of Netflix’s landing page.
 
 ---
 
-🚀 Features
+🚀 Live Demo
 
-- Netflix-style homepage design
-- Responsive layout
+👉 [https://your-username.github.io/netflix-homepage-clone/](https://nagullasailahari3281.github.io/netflix-homepage-clone/)
+
+---
+
+✨ Features
+
+- Netflix-style UI
+- Responsive design (mobile & desktop)
 - Navigation bar with logo and sign-in button
-- Hero section
+- Hero section with background image
 
 ---
 
-🛠️ Technologies Used
+🛠️ Tech Stack
 
-- HTML5
-- CSS3
-
----
-
-📁 Folder Structure
-
-netflix-homepage-clone/
-│── index.html
-│── README.md
-│
-├── assets/
-│   ├── css/
-│   │   └── style.css
-│   │
-│   └── images/
-│       ├── hero.png
-│       ├── mobile.png
-│       └── tv.png
+- HTML
+- CSS
 
 ---
-
 
 📌 Future Improvements
 
 - Add animations
 - Improve responsiveness
-- Add JavaScript functionality
+- Add JavaScript features
 
 ---
 
@@ -51,4 +39,3 @@ netflix-homepage-clone/
 
 Nagulla Sai Lahari
 
----
