@@ -23,22 +23,35 @@ body{
   color:red;
 }
 
-.btn{
-  background:red;
-  color:#fff;
-  padding:8px 16px;
-  border:none;
-  cursor:pointer;
+.btn {
+  background: #e50914;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  font-weight: bold;
+}
+   .hero-content h1 {
+  font-size: 48px;
+  margin-bottom: 10px;
+}
+
+.hero-content p {
+  margin-bottom: 15px;
+}
+
+.btn:hover {
+  background: #f40612;
 }
 
 /* Hero */
-.hero{
-  height:100vh;
-  background:url("https://images.unsplash.com/photo-1524985069026-dd778a71c7b4") no-repeat center/cover;
-  display:flex;
-  align-items:center;
-  justify-content:center;
-  text-align:center;
+.hero {
+  height: 100vh;
+  background: url("../images/hero.png") no-repeat center/cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
 }
 
 .hero-content{
